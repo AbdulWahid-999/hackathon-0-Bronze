@@ -1,0 +1,3 @@
+This is a properly formatted test file for the AI Employee system.
+
+It should be detected by the file watcher and processed automatically.
